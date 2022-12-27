@@ -1,0 +1,21 @@
+.nav-logo {
+  font-family: 'Bebas Neue';
+  font-size: 3rem !important;
+  color: #e50914 !important;
+}
+
+.navbar {
+  background-color: #8c8a8a0e !important;
+  /* border-bottom: 2px solid #e0e1dd5a !important; */
+  text-align: center;
+}
+
+.nav-link {
+  color: #e0e1dd !important;
+  transition: 0.3s ease-out;
+  font-size: 12px;
+}
+
+.nav-link:hover {
+  color: #e50914 !important;
+}
